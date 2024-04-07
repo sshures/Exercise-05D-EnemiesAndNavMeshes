@@ -39,5 +39,5 @@ Material:
     m_Floats:
     - _GlossMapScale: 1
     m_Colors:
-    - _Color: {r: 0.85885507, g: 0.5368903, b: 0.8962264, a: 1}
+    - _Color: {r: 1, g: 0.76811314, b: 0, a: 1}
   m_BuildTextureStacks: []
